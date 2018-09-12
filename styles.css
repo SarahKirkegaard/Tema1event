@@ -4,10 +4,18 @@
 
 body {
     margin: 0;
+    background-color: #454545;
+
 }
 
 figure img{
     width: 100%;
+}
+
+header{
+    width: 100%;
+    background-color: yellow;
+    margin: 0;
 }
 
 .topnav {
@@ -31,7 +39,7 @@ figure img{
 }
 
 .topnav a.active {
-    background-color: #ffde00;
+    background-color: yellow;
     color: rgb(1, 1, 0);
 }
 
